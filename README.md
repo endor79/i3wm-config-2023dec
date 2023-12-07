@@ -1,0 +1,1 @@
+# i3wm-config-2023dec
